@@ -1,5 +1,13 @@
 # Teamify
 
+***Please note***: This project was carried out together with : Luca Zanchetta. For this reason, the original git hub, containing all commits, can be reached via the following [link](https://github.com/luca-zanchetta/Teamify). This repo is a re-upload so that it can be viewed on my profile.
+
+
+**Presented by:**
+- Mattia Aquilina, 1921153
+- Luca Zanchetta, 1848878
+
+---
 - [Overview](#overview)
 - [Key Features](#key-features)
   - [Personal Agenda](#personal-agenda)
